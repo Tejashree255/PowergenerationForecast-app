@@ -1,0 +1,44 @@
+div.css-17sjr4k.e1tzin5v0{
+    background-color: #faf;
+    border: 2px solid #CCCCCC;
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+   
+}
+body{
+    -webkit-tap-highlight-color: #4CAF50;
+}
+.css-5uatcg:hover {
+    border-color: rgb(69, 255, 106);
+    color: rgb(69, 255, 106);
+}
+.css-5uatcg:focus {
+    box-shadow: rgba(69, 255, 106, 0.5) 0px 0px 0px 0.2rem;
+    outline: none;
+    background-color: rgb(0, 0, 0);
+}
+.css-15jfpy5:hover:enabled, .css-15jfpy5:focus:enabled {
+   
+    background-color:  rgb(69, 255, 106);
+    
+}
+.css-5uatcg.edgvbdh10:focus
+{
+    border-color: rgb(69, 255, 106);
+    color:rgb(69, 255, 106);
+    box-shadow: rgba(69, 255, 106, 0.5) 0px 0px 0px 0.2rem;
+}
+.css-5uatcg:focus:not(:active)
+{
+    border-color: rgb(239, 241, 239);
+    color: rgb(242, 246, 242);
+}
+code
+{
+    font-size: 150%;
+    border-color: rgb(27, 146, 51);
+}
+
+.css-1v0mbdj {
+    padding-top: 50px;
+}
