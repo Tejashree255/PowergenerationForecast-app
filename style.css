@@ -6,27 +6,29 @@ div.css-17sjr4k.e1tzin5v0{
    
 }
 body{
-    -webkit-tap-highlight-color: #4CAF50;
+    -webkit-tap-highlight-color: blue;
+    color:blue;
+    
 }
 .css-5uatcg:hover {
-    border-color: rgb(69, 255, 106);
-    color: rgb(69, 255, 106);
+    border-color: rgb(69, 88, 255);
+    color: rgb(69, 88, 255);
 }
 .css-5uatcg:focus {
-    box-shadow: rgba(69, 255, 106, 0.5) 0px 0px 0px 0.2rem;
+    box-shadow: rgb(69, 88, 255) 0px 0px 0px 0.2rem;
     outline: none;
     background-color: rgb(0, 0, 0);
 }
 .css-15jfpy5:hover:enabled, .css-15jfpy5:focus:enabled {
    
-    background-color:  rgb(69, 255, 106);
+    background-color: rgb(69, 88, 255);
     
 }
 .css-5uatcg.edgvbdh10:focus
 {
-    border-color: rgb(69, 255, 106);
-    color:rgb(69, 255, 106);
-    box-shadow: rgba(69, 255, 106, 0.5) 0px 0px 0px 0.2rem;
+    border-color:rgb(69, 88, 255);
+    color:rgb(69, 88, 255);
+    box-shadow: rgb(69, 88, 255) 0px 0px 0px 0.2rem;
 }
 .css-5uatcg:focus:not(:active)
 {
@@ -36,9 +38,37 @@ body{
 code
 {
     font-size: 150%;
-    border-color: rgb(27, 146, 51);
+    color:rgb(69, 88, 255);;
+    border-color: blue;
 }
 
 .css-1v0mbdj {
     padding-top: 50px;
+}
+.css-6qob1r {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: overlay;
+    background-color: rgb(140, 211, 233);
+}
+
+.css-18ni7ap {
+    background-color:  rgb(211, 233, 240);
+}
+
+.css-fg4pbf {
+    background-color:  rgb(211, 233, 240);
+}
+h3
+{
+    color:  rgb(5, 25, 94);
+}
+h1{
+    color:   rgb(5, 25, 94);
+}
+
+.css-nziaof:active
+{
+    background-color: rgb(136, 156, 237);
 }
