@@ -5,3 +5,4 @@ pandas==1.1.4
 pmdarima==2.0.3
 streamlit==1.21.0
 tensorflow==2.8.0
+xlrd
